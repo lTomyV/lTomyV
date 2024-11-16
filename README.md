@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```
 def check_github_profile(profile):
     if "README.md" in profile:
         profile = "Tinder Profile 💅"
     else:
         profile = "Github Account"
     return profile
+```
