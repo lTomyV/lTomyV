@@ -1,6 +1,7 @@
+<!--
 ## Hi there 👋
 
-<!--
+
 **lTomyV/lTomyV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,8 +19,8 @@ Here are some ideas to get you started:
 ```
 def check_github_profile(profile):
     if "README.md" in profile:
-        profile = "Tinder Profile 💅"
+        profile.type = tinder_profile
     else:
-        profile = "Github Account"
+        profile.type = github_account
     return profile
 ```
