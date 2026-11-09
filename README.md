@@ -1,26 +1,28 @@
-<!--
-## Hi there 👋
+# Hola, soy Tomy 👋
 
+**Analista en Sistemas | Full-Stack Software Engineer**
 
-**lTomyV/lTomyV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un profesional de IT enfocado en el diseño, desarrollo y despliegue de soluciones de software escalables. Me especializo en la arquitectura de sistemas, el desarrollo de backend de alto rendimiento y la infraestructura autoalojada.
 
-Here are some ideas to get you started:
+### 🚀 Actualmente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🏢 **Fundador y Lead Software Engineer en InmoSimple**: Desarrollando una plataforma SaaS B2B para la gestión inmobiliaria. Nuestro enfoque: *"Potenciamos la eficiencia de Agencias inmobiliarias de alto perfil"*.
+* ⚙️ **Arquitectura y Automatización**: Construyendo pipelines de generación de leads B2B (n8n, scraping, LLMs locales) y flujos CI/CD robustos para despliegues automatizados en VPS.
 
-```
-def check_github_profile(profile):
-    if "README.md" in profile:
-        profile.type = tinder_profile
-    else:
-        profile.type = github_account
-    return profile
-```
+### 💼 Resumen de Experiencia
+
+* **Desarrollo Full-Stack:** Creación de arquitecturas modernas utilizando FastAPI, React y PostgreSQL, con un fuerte enfoque en bases de datos relacionales, tipos estrictos y testing automatizado.
+* **Infraestructura y SysAdmin:** Configuración de alta disponibilidad (HA) en clústeres Proxmox, administración de servidores de alta concurrencia y gestión de redes empresariales.
+* **Desarrollo Internacional:** Más de 60 proyectos de software entregados exitosamente como ingeniero freelance para clientes en 25 países.
+
+### 🛠️ Tech Stack y Herramientas
+
+* **Lenguajes y Frameworks:** Python (FastAPI), JavaScript/TypeScript (React), SQL, Lua.
+* **Bases de Datos y Almacenamiento:** PostgreSQL, Cloudflare R2.
+* **DevOps e Infraestructura:** Docker Compose, Caddy (Reverse Proxy), GitHub Actions (CI/CD), Linux (Debian/Ubuntu VPS), Proxmox.
+* **Workflow:** N8N, flujos de desarrollo asistidos por IA (Ollama, agentes de código locales y alojados).
+
+### 📫 Conectemos
+
+* [LinkedIn](https://www.linkedin.com/in/tomasvogel/)
+* [Portfolio / Web](https://tomasvogel.vercel.app)
